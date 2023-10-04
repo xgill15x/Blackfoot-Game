@@ -10,7 +10,7 @@ import time
 
 pygame.mixer.init()     #Initializing mixer for pygame audio
 
-town_image_array = cmpt120image.getImage("town.jpg")        #Showing the default 'town' image to start the game
+town_image_array = cmpt120image.getImage("places_images/"+"town.jpg")        #Showing the default 'town' image to start the game
 scene_show = cmpt120image.showImage(town_image_array,"pygame")
 
 #This next section are the words associated with each scene
@@ -81,7 +81,7 @@ while want_play_game:
         while not move_confirmed:
             move_where = input("\nWhere would you like to move (Town/Restaurant/People/Greetings/Home)?: ").lower()
             try:
-              scene_show = cmpt120image.showImage(cmpt120image.getImage(move_where+".jpg"),"pygame")
+              scene_show = cmpt120image.showImage(cmpt120image.getImage("places_images/"+move_where+".jpg"),"pygame")
               if move_where == "town":
                 in_town = True
                 in_diner = False
