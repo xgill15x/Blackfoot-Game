@@ -19,7 +19,6 @@ diner_words = ["Aohkii","Mamii","Aotahkoinammiksi","Aipasstaamiinammiksi","Paata
 people_words = ["Ninaa","Aakii","Aakiikoan","Saahkomaapi","Iksisst","Inn"]
 greetings_words = ["Oki","Oki napi","Tsa niita'piiwa?","Tsikohssokopii. Kistoo?","Matohkwiikii","Oki(Let's go)","Aa","Saa"]
 home_words = ["Makapoiyiss","Itoiyo'soap","Aiksistomatomahka","Aisspaohpii","Ksisstsikomstan","Imitaa"]
-####################################
 
 in_town = True
 in_diner = False
@@ -36,7 +35,7 @@ home_words_test = 0
 print("\nOki (Hello)! Welcome to Brocket, Alberta! I can teach you some Blackfoot while you are here!")
 
 want_play_game = True
-    #This is the main while loop for the game (want_play_game)
+
 while want_play_game:
     user_options = input("\nDo you want to learn some words around you (learn), \nhave me test you (test), \npractice with a custom test(custom test), \ngo somewhere else (move), \nsee your top test marks(marks), \ncreate blackfoot sentences (speech) \nor leave(exit)?: ").lower()
     if user_options == "learn":
@@ -77,7 +76,6 @@ while want_play_game:
         elif in_home:
             helper.test_words_custom(home_words,greetings_words)
 
-####################################         
     elif user_options == "move":
         move_confirmed = False
         while not move_confirmed:
@@ -117,7 +115,6 @@ while want_play_game:
               move_confirmed = True
             except:
               print("\nSorry I don't know where that is...")
-####################################
 
     elif user_options == "marks":
         try:
