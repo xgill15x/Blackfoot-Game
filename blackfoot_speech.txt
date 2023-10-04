@@ -1,0 +1,43 @@
+cinema,cinema
+store,store
+night club,night_club
+cafe,cafe
+house,house
+tipi,tipi
+water,water
+fish,fish
+oranges,oranges
+apples,apples
+potatoes,potatoes
+fries,potatoes
+burger,burger
+dessert,dessert
+bread,bread
+tea,tea
+coffee,coffee
+bathroom,bathroom
+kitchen,kitchen
+car,car
+door,door
+elevator,elevator
+window,window
+dog,dog
+man,man	
+woman,woman
+girl,girl	
+boy,boy
+mother,mother
+father,father
+hello,hello
+hello friend,hello_friend
+how are you?,how_are_you
+i'm doing good. you?,im_doing_good_you
+not too bad,not_too_bad
+let's go,lets_go
+yes,yes
+no,no
+i will go,i_will_go
+i will eat,i_will_eat
+today,today
+this morning,this_morning
+tomorrow,tomorrow

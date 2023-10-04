@@ -1,0 +1,43 @@
+Aisaksittoo,cinema
+Itaohpomoapii,store
+Itaisimmioapii,night club
+Itoiyo'pii,cafe
+Naapoiyiss,house
+Niitoiyiss,tipi
+Aohkii,water
+Mamii,fish
+Aotahkoinammiksi,oranges
+Aipasstaamiinammiksi,apples
+Paataakistsi(potatoes),potatoes
+Paataakistsi(fries),fries
+Pikkiaaksin,burger
+Pisatsoyiikan,dessert
+Napayin,bread
+Siksikimmii,tea
+Iitapsiksikimmii,coffee
+Makapoiyiss,bathroom
+Itoiyo'soap,kitchen
+Aiksistomatomahka,car
+Kitsim,door
+Aisspaohpii,elevator
+Ksisstsikomstan,window
+Imitaa,dog
+Ninaa,man		
+Aakii,woman	
+Aakiikoan,girl		
+Saahkomaapi,boy	
+Iksisst,mother
+Inn,father
+Oki,hello
+Oki napi,hello friend
+Tsa niita'piiwa?,how are you?
+Tsikohssokopii. Kistoo?,i'm doing good. you?
+Matohkwiikii,not too bad
+Oki(Let's go),let's go
+Aa,yes
+Saa,no
+Nitaakitapoo,i will go
+Nitaaksoyi,i will eat
+Annohk,today
+Ksisskanaotonni,this morning
+Aapinakos,tomorrow
